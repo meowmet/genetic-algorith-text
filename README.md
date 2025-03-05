@@ -12,6 +12,6 @@ A simple genetic algorithm that evolves a random string into a target phrase usi
 
 ## 🛠 Setup & Run  
 ```bash
-git clone https://github.com/yourusername/genetic-text-evolver.git
+git clone https://github.com/meowmet/genetic-text-evolver.git
 cd genetic-text-evolver
 python genetic_algorithm.py
